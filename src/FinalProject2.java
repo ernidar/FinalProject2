@@ -21,7 +21,7 @@ public class FinalProject2 {
         //Ask user for 10 fruits
         System.out.println("Enter 10 words one by one: ");
 
-        String stringArray[] = new String[9];
+        String stringArray[] = new String[10];
 
         for (int i=0; i<stringArray.length; i++) {
             stringArray[i] = scanner.nextLine();
